@@ -1,17 +1,17 @@
 - 👋 Hi, I’m @daniel1890
 - 👀 I’m interested in: 
-- 
+
 - - Software development
 - - Web development
 - - Back-end development.
-- 
+
 - 💞️ I have worked with and finished projects in:
-- 
+
 - - HTML & CSS
 - - Processing 3.0
 - - Java
 - - C#
-- 
+
 - 🌱 I’m currently learning Javascript (along with Node, Svelte and Strapi) and ASP.NET.
 
 <!---
