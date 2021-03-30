@@ -12,7 +12,7 @@
 - Java
 - C#
 
-🌱 I’m currently learning Javascript (along with Node, Svelte and Strapi) and ASP.NET.
+🌱 I’m currently learning ASP.NET and Javascript (along with Node and Svelte).
 
 <!---
 daniel1890/daniel1890 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
