@@ -11,6 +11,7 @@
 - Processing 3.0
 - Java
 - C#
+- JavaScript (Node, Gatsby, React)
 
 🌱 I’m currently focusing on learning Web-Development: Javascript, Node, React, Gatsby.
 
