@@ -13,8 +13,6 @@
 - C#
 - JavaScript (Node, Gatsby, React)
 
-🌱 I’m currently focusing on learning Web-Development: Javascript, Node, React, Gatsby.
-
 🌱 It's late 2021 and it's back to school time, I will have much less time for side projects.
 
 <!---
