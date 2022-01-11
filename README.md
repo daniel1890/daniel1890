@@ -12,6 +12,8 @@
 - Java
 - C#
 - JavaScript (Node, Gatsby, React)
+- SQL
+- PHP
 
 🌱 It's late 2021 and it's back to school time, I will have much less time for side projects.
 
