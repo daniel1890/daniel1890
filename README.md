@@ -10,13 +10,13 @@
 - HTML & CSS
 - Processing 3.0
 - Java
-- JavaScript (Node, Gatsby, React)
+- JavaScript (React/Gatsby)
 - SQL
 - PHP
 
 🌱 It's late 2021 and it's back to school time, I will have much less time for side projects.
 
-🌱 Currently learning: Java, Arduino(c++).
+🌱 Currently learning: Java, Arduino(C++).
 
 <!---
 daniel1890/daniel1890 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
