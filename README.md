@@ -15,8 +15,6 @@
 - PHP
 - Arduino(C++)
 
-🌱 It's late 2021 and it's back to school time, I will have much less time for side projects.
-
 🌱 Currently learning: building a large scale web application.
 
 <!---
