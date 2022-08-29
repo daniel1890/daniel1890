@@ -15,7 +15,7 @@
 - PHP
 - Arduino(C++)
 
-🌱 Currently learning: building a large scale web application.
+🌱 Currently learning: object oriented analysis and design & building a distributed enterprise application.
 
 I'm in my second year of school studying for a Bachelor in ICT(IT).
 
