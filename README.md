@@ -10,7 +10,7 @@
 - HTML & CSS
 - Processing 3.0
 - Java
-- JavaScript (React/Gatsby)
+- JavaScript (Angular)
 - SQL
 - PHP
 - Arduino(C++)
