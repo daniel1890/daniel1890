@@ -10,14 +10,15 @@
 - HTML & CSS
 - Processing 3.0
 - Java
-- JavaScript (Angular)
+- JavaScript, TypeScript (Angular)
 - SQL
+- MongoDB
 - PHP
 - Arduino(C++)
 
-🌱 Currently learning: complex database implementation & datamodeling and database design.
+🌱 Currently learning: Algorithms, Functional Programming & Software Architecture.
 
-I'm in my second year of school studying for a Bachelor in ICT(IT).
+I'm in my third year of school studying for a Bachelor in ICT(IT).
 
 <!---
 daniel1890/daniel1890 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
