@@ -7,14 +7,14 @@
 
 💞️ I have worked with and finished projects in:
 
-- HTML & CSS
-- Processing 3.0
 - Java
 - JavaScript, TypeScript (Angular)
 - SQL
 - MongoDB
+- HTML & CSS
+- Processing 3.0
 - PHP
-- Arduino(C++)
+- Arduino (C++)
 
 🌱 Currently learning: Algorithms, Functional Programming & Software Architecture.
 
