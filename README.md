@@ -16,7 +16,7 @@
 - PHP
 - Arduino (C++)
 
-🌱 Currently learning: Algorithms, Functional Programming & Software Architecture.
+🌱 Currently learning: Internship at Covadis.
 
 I'm in my third year of school studying for a Bachelor in ICT(IT).
 
