@@ -16,9 +16,9 @@
 - PHP
 - Arduino (C++)
 
-🌱 Currently learning: Internship at Covadis.
+🌱 Currently learning: Game Development in Unity.
 
-I'm in my third year of school studying for a Bachelor in ICT(IT).
+I'm in my fourth year of school studying for a Bachelor in ICT(IT).
 
 <!---
 daniel1890/daniel1890 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
