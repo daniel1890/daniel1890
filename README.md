@@ -8,6 +8,7 @@
 💞️ I have worked with and finished projects in:
 
 - Java
+- C#
 - JavaScript, TypeScript (Angular)
 - SQL
 - MongoDB
@@ -15,6 +16,7 @@
 - Processing 3.0
 - PHP
 - Arduino (C++)
+- Unity
 
 🌱 Currently learning: Game Development in Unity.
 
