@@ -5,7 +5,7 @@
 - Web development
 - Back-end development.
 
-💞️ I have worked with and finished projects in:
+💞️ I have worked with and finished projects using the following technologies:
 
 - Java
 - C#
@@ -17,10 +17,9 @@
 - PHP
 - Arduino (C++)
 - Unity
+- Bicep
 
-🌱 Currently learning: Game Development in Unity.
-
-I'm in my fourth year of school studying for a Bachelor in ICT(IT).
+Graduate from HAN with a Bachelor in ICT(IT).
 
 <!---
 daniel1890/daniel1890 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
